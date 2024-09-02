@@ -3,7 +3,7 @@ Build an eye-catching interactive dashboard designed to transform complex data i
 
 ## Key Features:
 
-*Pivot Table:* Organize and summarize data intelligently for clear insights.
+**Pivot Table:** Organize and summarize data intelligently for clear insights.
 
 **Slicers:** Empower users with dynamic filtering capabilities for customized views.
 
